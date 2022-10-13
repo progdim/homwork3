@@ -14,7 +14,7 @@ public class Main {
     if (age>=18 & age <=24){
         System.out.println("его место в университете");
         }
-    if (age>24){
+    if (age>=24 & age <=18){
         System.out.println("ему пора ходить на работу");
         }
     }
