@@ -28,10 +28,6 @@ public class urok2 {
 //            }
 //        }
 
-        int days = 0;
-
-        int deliveryDistance = 15;
-
 
     }
 }
